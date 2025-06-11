@@ -8,4 +8,4 @@ The motivation of this project is two main things:
 
 The code itself is reading in the over 2 million book long data file from Goodreads, splitting this data by its catagorical genre and then forecasting using different timescales, tools, and tests that were tried during the writing process. 
 
-This is all formulated into a final report in a LaTeX style and a poster set up for presentation.
+This is all formulated into a final report in a LaTeX style and a poster set up for presentation. These files go into incredible detail about this project and the process, so for more information, check those out.
